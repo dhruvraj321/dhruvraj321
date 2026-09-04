@@ -42,7 +42,9 @@ building projects, and improving my problem-solving skills.
 ## 🤝 Connect With Me
 
 💼 **LinkedIn:** [Dhruvraj Dhumal]( https://www.linkedin.com/in/dhruvraj-dhumal-5b7577380?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+
 📧 **Email:** dhruvdhumal297@gmail.com
+
 🐙 **GitHub:** [@dhruvraj321](https://github.com/dhruvraj321)
 
 ---
