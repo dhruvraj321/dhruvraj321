@@ -32,6 +32,7 @@
 
 - 🐍 Python Practice
 - 🌐 HTML Practice
+- 🔷 CSS Practice
 - 🚀 More projects coming soon...
 
 ## 🎯 My Goal
