@@ -33,6 +33,7 @@
 - 🐍 Python Practice
 - 🌐 HTML Practice
 - 🔷 CSS Practice
+- 💚 Personal Care Web App — wellness feel
 - 🚀 More projects coming soon...
 
 ## 🎯 My Goal
